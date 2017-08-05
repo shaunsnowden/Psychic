@@ -24,7 +24,7 @@ document.onkeyup = function() {
 	
 	} else {
 		counter--;
-		lettersGuessed = lettersGuessed + userGuess;
+		lettersGuessed = lettersGuessed +" " + userGuess;
 		alert("Try again...");
 		console.log("counter: "+counter);
 		console.log("letters: "+lettersGuessed);
