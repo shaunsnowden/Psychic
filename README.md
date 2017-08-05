@@ -1,0 +1,2 @@
+# Psychic
+Basic Javascript Game
